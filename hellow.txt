@@ -1,2 +1,2 @@
-hi...
-test hellow page..
+Hello GitHub!
+수정한 내용입니다.
