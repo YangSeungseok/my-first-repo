@@ -30,6 +30,6 @@ git push -u origin new_branch05
 
 git commit -m "branch04"
 
-token : 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
+# token : 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
 
 
