@@ -33,3 +33,6 @@ git commit -m "branch04"
 # token : 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
 
 
+git add study.txt
+git commit --amend --no-edit   # 기존 커밋에 수정 반영
+git push -f origin new_branch05
